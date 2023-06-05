@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:I'm Mohd Yunus, a aspiring full-stack  developer 👨‍💻 
 🔭 I’m currently working on Mern deveopment<br>👯 I’m looking to collaborate on Mern<br>🌱 I’m currently learning T3 stack and Devops<br>💬 Ask me about  Full-stack-development<br>
 
 
